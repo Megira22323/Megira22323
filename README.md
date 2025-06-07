@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Megira22323
-- 👀 I currently work in the UK insurance sector as a department supervisor.  I am interested in getting into Data Analytics.
+- 👀 I currently work in the UK insurance sector as an Analyst. 
 - 🌱 I’m currently undertaking a Degree in Data Systems and Information. I am learning SQL and Python in my spare time. 
 - 😄 Pronouns: She / Her
 
